@@ -1,3 +1,4 @@
+import Auth from "./pages/Auth";
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
 
   return (
-    <div>soheil</div>
+    <Auth/>
   );
 }
 
